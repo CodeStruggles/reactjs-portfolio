@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name": "Niclas Deplazes",
+    "occupation": "Software Developer",
+    "description": "currently studying for my Bachelor's Degree in Computer Science",
+    "image": "profile.png",
+    "bio": "My name is Niclas. I love coding because with just a few lines of code I can turn my ideas into reality, which potentially can impact the world and shape the future.",
+    "bio2": "I learned the basics of programming in Java at an IT-College which consisted of 3 years of school and a 1 year apprenticeship. After completing the mandatory military recruit school, I did another 1 year apprenticeship at a startup which builds an AI solution to analyze MRI images.",
+    "bio3": "I'm currently studying at the ZHAW School Of Engineering in Winterthur for my Bachelor's Degree in Computer Science.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "Switzerland",
+      "zip": ""
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/niclas-deplazes/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/CodeStruggles",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "ZHAW School of Engineering Winterthur",
+        "degree": "Bachelor's Degree in Computer Science",
+        "graduated": "September 2020 - Present"
+      },
+      {
+        "school": "Informatikmittelschule Frauenfeld (IT-College)",
+        "degree": "Degree in Software Development",
+        "graduated": "2015 - 2019",
+        "description": "3 years in school & 1 year apprenticeship at Liip AG"
+      }
+    ],
+    "work": [
+      {
+        "company": "Balzano Informatik AG",
+        "title": "Junior AI Engineer",
+        "years": "Nov 2019 - April 2020",
+        "description": "Involved in a project called ScanDiags, which is a AI powered software solution for the interpretation and analysis of MRI scans. Mainly worked with T-SQL on the SQL Server Database and with Python to implement the service which creates PDF reports from the AI analysis."
+      },
+      {
+        "company": "Liip AG",
+        "title": "Junior Web Developer",
+        "years": "August 2018 - June 2019",
+        "description": "Involved in a project called Memberplus, which is a web platform of Raiffeisen, that promotes various discounts for their customers. Worked both on the Frontend (Angular) and Backend (PHP)."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "60%",
+        "icon": "python.png"
+      },
+      {
+        "name": "Swift",
+        "level": "55%",
+        "icon": "swift.png"
+      },
+      {
+        "name": "Java",
+        "level": "50%",
+        "icon": "java.jpg"
+      },
+      {
+        "name": "Javascript",
+        "level": "60%",
+        "icon": "javascript.jpg"
+      },
+      {
+        "name": "ReactJs",
+        "level": "10%",
+        "icon": "reactjs.png"
+      },
+      {
+        "name": "Angular",
+        "level": "50%",
+        "icon": "angular.png"
+      },
+      {
+        "name": "CSS",
+        "level": "80%",
+        "icon": "css.png"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%",
+        "icon": "html5.svg"
+      },
+      {
+        "name": "Git",
+        "level": "80%",
+        "icon": "git.png"
+      },
+      {
+        "name": "SQL Server",
+        "level": "50%",
+        "icon": "sqlserver.svg"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "ScanDiags",
+        "category": "AI powered software solution for the interpretation and analysis of MRI scans",
+        "image": "scandiags.png",
+        "url": "https://www.scandiags.com/"
+      },
+      {
+        "title": "Memberplus",
+        "category": "Web platform of Raiffeisen Bank to promote discounts for their customers",
+        "image": "memberplus.png",
+        "url": "https://memberplus.raiffeisen.ch/de"
+      }
+    ]
+  }
+}
